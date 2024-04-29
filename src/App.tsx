@@ -1,8 +1,7 @@
-import Square from "./Square";
-
+import Board from "./Board";
 
 export default function App() {
   return <div>
-    <Square></Square>
+    <Board/>
   </div>
 }
